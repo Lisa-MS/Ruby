@@ -1,0 +1,133 @@
+.con_2_1{
+    width: 100%;
+    height: 250px;
+    background-color: #14396d;
+    position: absolute;
+    top: 70px;
+    left: 0;      
+}
+
+
+.h1_2_1{
+    color: white;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 700px;
+}
+
+.button_2_1{
+    position: absolute;
+    margin-top: 210px;
+    left: 1200px;
+    height: 40px;
+    font-size: 10px;
+    font-weight: 500;
+    width: 150px;
+    background-color: white;   
+    border: white;
+    color: #14396d;
+    border-radius: 0px 0px 0px 0;  
+}
+
+h3{
+    color: #14396d;
+    position: absolute;
+}
+
+.p_2_1{
+    position: absolute;
+    font-size: 12px;
+    color: #14396d;
+}
+
+.img_2_1{
+    height: 260px;
+    width: 520px;
+    left: 480px;
+    margin-top: 480px;
+    position: relative;
+}
+
+
+.circle_1{
+    background: #00baec;
+    clip-path: circle(50%);
+    height: 2.5em;
+    width: 2.5em;
+    margin-top: 180px;
+    margin-left: 480px;
+  }
+
+
+.img_2_2{
+    height: 310px;
+    width: 270px;
+    left: 460px;
+    margin-top: 50px;
+    position: relative;
+    padding-left: 20px;
+}
+
+
+.brd_1{
+    border: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: -1115px;
+    position: relative;
+    padding-left: 30px;
+}
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: #00baec ; /* Цвет линии */
+    color: #00baec; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    width: 34px;
+    margin-left: 0px;
+   }
+
+.brd_2{
+    border: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+
+.circle_4{
+    background: #6CBE03;
+    clip-path: circle(50%);
+    height: 8em;
+    width: 8em;
+    margin-top: 20px;
+    margin-left: 70px;
+  }
+
+  .img_2_3{
+      height: 450px;
+      width: 300px;
+      margin-left: 260px;
+      margin-top: 30px;
+      position: relative;
+      z-index: 0;
+      
+  }
+
+  button{
+    position: absolute;
+    height: 40px;
+    font-size: 12px;
+    font-weight: 500;
+    width: 130px;
+    background-color: #fedb41;   
+    border: #fedb41;
+    color: #14396d;
+    left: 480px;
+    margin-top: 40px;
+  }

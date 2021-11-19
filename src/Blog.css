@@ -1,0 +1,376 @@
+.con_6_1{
+    width: 100%;
+    height: 250px;
+    background-color: #14396d;
+    position: absolute;
+    top: 70px;
+    left: 0;      
+    display: flex;
+}
+
+.h1_6_1{
+    color: white;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 460px;
+}
+
+.button_6_1{
+    position: absolute;
+    margin-top: 210px;
+    left: 1200px;
+    height: 40px;
+    font-size: 10px;
+    font-weight: 500;
+    width: 150px;
+    background-color: white;   
+    border: white;
+    color: #14396d;
+    border-radius: 0px 0px 0px 0;  
+}
+
+.img_6_1{
+    height: 360px;
+    width: 620px;
+    left: 65px;
+    margin-top: 350px;
+    position: relative;
+}
+
+.h5_6_1{
+    color: #0A1026;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 65px;
+    font-weight: bold;
+}
+
+.p_6_1{
+    position: relative;
+    margin-top: 110px;
+    left: 60px;
+    font-size: 12px;
+    color: #0A1026;
+}
+
+.p_6_2{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 90px;
+    font-size: 12px;
+    color: #0A1026;
+    font-weight: 500;
+}
+
+.hr_6_1{
+    width: 3px;
+    height: 70px;
+    color: #00baec;
+    margin-top: 0px;
+    margin-left: 65px;
+}
+
+.p_6_3{
+    position: relative;
+    padding-top: 10px;
+    left: 60px;
+    font-size: 12px;
+    color: #0A1026;
+}
+
+.col_6_1{
+    background-color: #14396D;
+    color: #FFFFFF;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-left: 80px;
+    padding-top: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px;
+
+}
+
+.col_6_2{
+    background-color: #EEEFF3;
+    color: #333333;
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-top: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+.div_6_1{
+    border: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    margin-top: 40px;
+    width: 620px;
+    height: 180px;
+    margin-left: 65px;
+}
+
+.circle_6_1{
+    background: #B7B7B7;
+    clip-path: circle(50%);
+    height: 8em;
+    width: 8em;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.h5_6_2{
+    margin-top: -120px;
+    margin-left: 230px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    color: #0A1026;
+}
+
+.p_6_4{
+    margin-left: 230px;
+    font-size: 12px;
+}
+
+.h3_6_1{
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: -50px;
+}
+
+.hr_6_2{
+    width: 40px;
+    height: 2px;
+    color: #00baec;
+    margin-left: 72px;
+    margin-top: -10px;
+    margin-bottom: -50px;
+}
+
+.circle_6_2{
+    clip-path: circle(50%);
+    height: 5em;
+    width: 5em;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: -150px;
+  }
+
+  .p_6_5{
+    margin-top: 65px;
+    margin-left: 180px;
+    font-size: 12px;
+    color: #14396d;
+}
+
+.circle_6_3{
+    clip-path: circle(50%);
+    height: 5em;
+    width: 5em;
+    margin-top: -40px;
+    margin-left: 180px;
+    margin-bottom: -150px;
+  }
+
+.p_6_6{
+    margin-left: 280px;
+    font-size: 12px;
+    color: #14396d;
+}
+
+.circle_6_4{
+    clip-path: circle(50%);
+    height: 5em;
+    width: 5em;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.p_6_7{
+    margin-top: -80px;
+    margin-left: 180px;
+    font-size: 12px;
+    color: #14396d;
+}
+
+.h3_6_2{
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: -60px;
+}
+
+.hr_6_3{
+    width: 40px;
+    height: 2px;
+    color: #00baec;
+    margin-left: 72px;
+    margin-top: -10px;
+    margin-bottom: -50px;
+}
+
+.hr_6_4{
+    position: relative;
+    border: none; /* Убираем границу */
+    background-color: #00baec ; /* Цвет линии */
+    color: #00baec; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 0px;
+   }
+
+.h5_6_3{
+    position: relative;
+    margin-top: 40px;
+}
+
+.hr_6_5{
+    position: relative;
+    border: none; /* Убираем границу */
+    background-color: #00baec ; /* Цвет линии */
+    color: #00baec; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    width: 30px;
+    margin-left: 0px;
+   }
+
+.brd_6_1{
+    position: relative;
+    border: 1px;
+    border-color: #F6FBFF;
+    border-style: solid;
+    width: 250px;
+    margin-left: 1100px;
+    margin-top: -1815px;
+    background-color:#F6FBFF ;
+}
+
+.brd_6_2{
+    position: relative;
+    border: 1px;
+    border-color: #F6FBFF;
+    border-style: solid;
+    width: 250px;
+    margin-left: 1100px;
+    margin-top: 30px;
+    background-color:#F6FBFF ;
+}
+
+.img_6_2{
+    height: 60px;
+    width: 70px;
+    position: relative;
+}
+
+.p_6_8{
+    font-size: 10px;
+    font-weight: 500;
+    margin-top: -70px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+    position: relative;
+}
+
+.brd_6_3{
+    position: relative;
+    border: 1px;
+    border-color: #F6FBFF;
+    border-style: solid;
+    width: 250px;
+    height: 250px;
+    margin-left: 1100px;
+    margin-top: 30px;
+    background-color:#F6FBFF ;
+}
+
+.button_6_2{
+    margin-top: 0px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #ffffff;   
+    border: #ffffff;
+    color: #686868;
+    border-radius: 3px;
+    position: relative;
+}
+
+.button_6_3{
+    margin-top: 15px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #ffffff;   
+    border: #ffffff;
+    color: #686868;
+    border-radius: 3px;
+    position: relative;
+}
+
+.button_6_4{
+    margin-top:15px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #ffffff;   
+    border: #ffffff;
+    color: #686868;
+    border-radius: 3px;
+    position: relative;
+}
+
+.img_6_3{
+    height: 350px;
+    width: 250px;
+    margin-left: 710px;
+    top: -50px;
+    position: relative; 
+    border-radius: 5px;
+    z-index: 0;
+  }
+
+.button_6_5{
+    position: absolute;
+    height: 40px;
+    font-size: 12px;
+    font-weight: 500;
+    width: 130px;
+    background-color: #fedb41;   
+    border: #fedb41;
+    color: #14396d;
+    margin-left: 289px;
+    top: 20px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .textarea_6_1 {
+    width: 625px;
+    height: 130px;
+    margin-bottom: 20px;
+    color: #686868;
+    border-color: #DCDCDC;
+    border-style: solid;
+    padding-left: 10px;
+    margin-left: 65px;
+    border-radius: 5px;
+}
+
+.button_6_6{
+    position: absolute;
+    height: 40px;
+    width: 130px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #fedb41;   
+    border: #fedb41;
+    color: #14396d;
+    border-radius: 5px;
+    margin-left: -30px;
+}

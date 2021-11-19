@@ -1,0 +1,569 @@
+
+.App-img{
+    width: 1900px;
+    height: 700px;
+    position: relative;
+    margin-left: -400px;
+    }
+
+h1{
+    color: #14396d;
+    font-weight: bold;
+    font-size: 54px;
+    position: absolute;
+    top: 250px;
+    left: 10px;
+}
+
+.p_1{
+    color: black;
+    font-size: 14px;
+    position: absolute;
+    top: 400px;
+}
+
+button{
+    position: relative;
+    height: 40px;
+    font-size: 12px;
+    font-weight: 500;
+    width: 130px;
+    background-color: #fedb41;   
+    border: #fedb41;
+    color: #14396d;
+    border-radius: 5px;
+}
+
+h6{
+    position: relative;
+    color: #00baec ;
+    font-weight: bold;
+    margin-left: 530px;
+}
+
+.img1{
+    border-radius: 40px 0px 0px 0;
+    height: 425px;
+    width: 592px;
+    margin-top: -725px;
+    left: 523px; 
+    position: relative; 
+}
+
+.cardImg{
+    height: 350px;
+    width: 500x;
+    border-radius: 40px 0px 0px 0;  
+    
+}
+
+.card{
+    width: 500px;
+    height: 625px;
+    border-spacing: 0px;
+    border-radius: 40px 0px 0px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3); 
+}
+
+.cardImg1{
+    height: 350px;
+    width: 500x;
+}
+
+.card1{
+    width: 500px;
+    height: 625px;
+    border-spacing: 0px;
+    border-radius: 0px 0px 40px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);           
+}
+
+h2{
+    color: #14396d;
+    font-size: 36px;
+    position: absolute; 
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры у списка */
+    margin-right: 45px;
+    }
+    li:before {
+        content: "▯ "; /* Добавляем в качестве маркера символ */
+        color: #00baec;
+    }
+
+.line{
+    border-left: 3px solid #e1e1e1;
+    height: 100px;
+}
+
+
+h3{
+    color: #14396d;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    padding-bottom: 25px;
+    padding-top: 90px;
+    left:  -90px;      
+}
+
+.p_2{
+    color: #00baec;
+    font-weight: bold;
+    font-size: 24px;
+    position: absolute;
+    padding-top: 50px;
+    left: -90px;
+}
+
+.p_3{
+        
+    position: absolute;
+    padding-top: 210px;
+    left: -90px;
+    font-size: 16px;
+}
+
+
+.table_1{
+    margin-top: 300px;
+    margin-bottom: 10px;
+    margin-left: -110px;
+}
+
+.table_1 li{
+    list-style-type: none; /* Убираем маркеры у списка */
+    margin-right: 45px;
+    color: #14396d;
+    margin-left: -40px;
+}
+    .table_1 li:before {
+        content: "▯ "; /* Добавляем в качестве маркера символ */
+        color: #14396d;
+    }
+
+.img_1{
+    height: 370px;
+    width: 400px;
+    border-radius: 0px 40px 0px 0;
+    margin-top: -545px;
+    margin-left: 90px;
+    position: relative;
+}
+
+.img_2{
+    height: 600px;
+    width: 500px;
+    margin-left: 0px;
+    position: relative;
+}
+
+
+.h3_1{
+    color: #14396d;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    margin-top: -70px;
+    left: 70px;
+}
+
+.con_1{
+    margin-top: 250px;
+    height: 1000px;
+    background-color: #14396d;
+}
+
+
+.h3_2{
+    color: #ffffff;
+    font-size: 26px;
+    margin-left: 250px;
+    position: relative;
+}
+
+.card2_1{
+    width: 240px;
+    height: 340px;
+    border-spacing: 0px;
+    border-radius: 40px 0px 40px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin-top: 0px;
+}
+
+.cardImg2{
+    height: 180px;
+    width: 240px;
+    border-radius: 40px 0px 0px 0;
+}
+
+.card2_2{
+    width: 240px;
+    height: 340px;
+    border-spacing: 0px;
+    border-radius: 40px 0px 40px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin-top: 30px;
+}
+
+
+.cardTitle{
+    color: #14396d;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.cardText{
+    font-size: 10px;
+}
+
+
+
+.h2_1{
+    color:#14396d ;
+    position: relative;
+    margin-top: -50px;
+    margin-bottom: -120px;
+    left: 470px;
+}
+
+.img_3{
+    height: 105px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+    margin-bottom: 15px;
+}
+
+.table_2{
+    margin-top: 280px;
+    margin-left: 150px;  
+}
+
+.table_2_2_{
+    margin-left: -250px;
+}
+
+.tr_1{
+    margin-bottom: 10px;
+}
+
+.h6_2{
+    position: absolute;
+    margin-top: -100px;
+    color: #14396d;
+    margin-left: 90px;
+    font-weight: bold;
+}
+
+.p_6{
+    position: absolute;
+    font-size: 10px;
+    margin-left: 90px;
+    margin-top: -70px;
+}
+
+.img_4{
+    position: absolute;
+    height: 500px;
+    width: 400px;
+    border-radius: 40px 0px 0px 0;
+    margin-top: -450px;
+    margin-left: 913px;
+}
+
+.img_5{
+    height: 250px;
+    position: relative;
+    width: 210px;
+    margin-left: 870px;
+    margin-top: -410px;
+    border-radius: 4px;
+}
+    
+.h6_3{
+    position: absolute;
+    color: #14396d;
+    font-weight: bold;
+    margin-top: -290px;
+    margin-left: 900px;
+}
+
+.p_7{
+    position: absolute;
+    font-size: 9px;
+    margin-left: 900px;
+    margin-top: -240px;
+}
+
+
+.h2_2{
+    color:#14396d ;
+    position: relative;
+    margin-top: -40px;
+    left: 440px;
+}
+
+.img_6{
+    height: 500px;
+    width: 1250px;
+    top: 250px;
+    left: 5px;
+}
+
+.img_7{
+    position: absolute;
+    height: 425px;
+    width: 350px;
+    border-radius: 0px 40px 0px 40px;
+    margin-top: -450px;
+    margin-left: 170px;
+}
+
+.h6_4{
+    position: absolute;
+    color: #14396d;
+    font-weight: bold;
+}
+
+.p_8{
+    position: absolute;
+    font-size: 10px;
+    color: #14396d;
+    margin-left: 640px;
+    margin-top: -340px;
+}
+
+
+.con_2{
+    position: absolute;
+    margin-top: 40px;
+    height: 450px;
+    width: 100%;
+    background-color: #14396d;
+    right: 0px;       
+}
+.p_12{
+    color: #00baec;
+    font-size: 18px;
+    margin-left: 0px;
+    position: absolute;
+    margin-top: 170px;
+}
+
+.h3_3{
+    color: #ffffff;
+    font-size: 26px;
+    margin-left: 90px;
+    position: relative;
+    margin-top: 100px;
+}
+
+.p_13{
+    color: #f6fbff;
+    font-size: 12px;
+    margin-left: 0px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+.card3_1{
+    position: absolute;
+    width: 240px;
+    height: 340px;
+    border-spacing: 0px;
+    border-radius: 40px 0px 0px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin-top: -210px;
+    margin-left: 660px;
+}
+
+.cardTitle_1{
+    position: absolute;
+    color: #14396d;
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.cardText_1{
+    position: absolute;
+    font-size: 9px;
+    color: #00baec;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.h3_4{
+    color: #14396d ;
+    font-size: 26px;
+    margin-left: 510px;
+    position: relative;
+    margin-top: -90px;
+}
+
+
+.img_8{
+    position: absolute;
+    width: 1200px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: -13px;
+}
+
+.img_9{
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 180px;
+    border-radius: 40px 0px 0px 0;
+}
+
+.form{
+    position: relative;
+    margin-top: -300px;
+    margin-left: 700px;
+    width: 300px;
+}
+    
+.p_15{
+    color: #14396d ;
+    font-size: 16px;
+    margin-top: -40px;
+    position: absolute;
+    font-weight: bold;
+}
+
+.img_10{
+    position: absolute;
+    width: 250px;
+    height: 90px;
+    margin-left: 235px;
+    margin-top: 400px;
+    border-radius: 20px 0px 20px 0;
+}
+
+.p_16{
+    color: #00baec ;
+    font-size: 12px;
+    margin-top: 430px;
+    margin-left: 325px;
+    position: relative;            
+}
+
+.h3_5{
+    color: #14396d;
+    font-size: 16px;
+    margin-top: -100px;
+    margin-left: 415px;
+    position: relative;  
+}
+
+.img_11{
+    position: absolute;
+    width: 250px;
+    height: 90px;
+    margin-left: 430px;
+    margin-top: 220px;
+    border-radius: 20px 0px 20px 0;
+}
+    
+.p_17{
+    color: #00baec ;
+    font-size: 16px;
+    margin-top: 270px;
+    margin-left: 500px;
+    position: absolute; 
+    font-weight: bold;
+
+}
+
+.h3_6{
+    color: #14396d ;
+    font-size: 26px;
+    margin-left: 500px;
+    position: relative;
+    margin-top: 200px;
+}
+
+.img_12{
+    position: absolute;
+    width: 350px;
+    height: 430px;
+    margin-left: 160px;
+    margin-top: 30px;
+    border-radius: 0px 40px 0px 40px;
+}
+
+.img_13{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 460px;
+    margin-top: 100px;
+    border-radius: 0px 10px 0px 10px;
+    border-style: solid;
+    border-color: white;
+}
+
+.img_14{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 460px;
+    margin-top: 210px;
+    border-radius: 0px 10px 0px 10px;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.img_15{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 460px;
+    margin-top: 320px;
+    border-radius: 0px 10px 0px 10px;
+    border-style: solid;
+    border-color: white;
+}
+    
+.h5_1{
+    color: #14396d ;
+    font-size: 16px;
+    margin-left: 630px;
+    position: absolute;
+    margin-top: 200px;
+    font-weight: bold;
+}
+
+.p_18{
+    color: #14396d ;
+    font-size: 12px;
+   margin-top: 240px;
+   margin-left: 630px;
+    position: absolute; 
+}
+
+.p_19{
+    color: black ;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 350px;
+    margin-left: 630px;
+    position: absolute; 
+}
+
+.p_20{
+    color: #14396d ;
+    font-size: 12px;
+    margin-top: 380px;
+    margin-left: 630px;
+    position: absolute; 
+}
